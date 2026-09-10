@@ -14,31 +14,31 @@ This project demonstrates how Business Intelligence can be used to transform raw
 
 The objective of this project is to:
 
-- Monitor business performance through executive KPIs
-- Analyze customer purchasing behaviour
-- Evaluate sales performance across products and categories
-- Optimize inventory management
-- Assess delivery efficiency
-- Measure marketing campaign effectiveness
-- Generate actionable business insights for data-driven decision-making
+* Monitor business performance through executive KPIs
+* Analyze customer purchasing behaviour
+* Evaluate sales performance across products and categories
+* Optimize inventory management
+* Assess delivery efficiency
+* Measure marketing campaign effectiveness
+* Generate actionable business insights for data-driven decision-making
 
 ---
 
 ## 🏢 Business Domains Covered
 
-- 📈 Sales Analytics
-- 👥 Customer Analytics
-- 📦 Inventory Analytics
-- 🚚 Delivery Performance Analytics
-- 📢 Marketing Analytics
-- 📊 Executive Business Dashboard
+* 📈 Sales Analytics
+* 👥 Customer Analytics
+* 📦 Inventory Analytics
+* 🚚 Delivery Performance Analytics
+* 📢 Marketing Analytics
+* 📊 Executive Business Dashboard
 
 ---
 
 ## 🛠 Tech Stack
 
 | Tool | Purpose |
-|------|----------|
+| --- | --- |
 | SQL | Data Extraction & KPI Analysis |
 | Python | Data Cleaning & Exploratory Data Analysis |
 | Power BI | Interactive Dashboard Development |
@@ -51,31 +51,29 @@ The objective of this project is to:
 
 The project integrates multiple business datasets:
 
-- Customers
-- Orders
-- Order Items
-- Products
-- Inventory
-- Delivery Performance
-- Marketing Performance
-- Customer Feedback
+* Customers
+* Orders
+* Order Items
+* Products
+* Inventory
+* Delivery Performance
+* Marketing Performance
+* Customer Feedback
 
 ---
 
-
 ## Sales Analytics
-
 
 # 📈 Key KPIs
 
-- 💰 Total Revenue
-- 🛒 Total Orders
-- 👥 Total Customers
-- 📦 Inventory Availability
-- 🚚 Delivery Performance
-- ⭐ Customer Rating
-- 📢 Marketing Spend
-- 💵 Return on Ad Spend (ROAS)
+* 💰 Total Revenue (11.01M)
+* 🛒 Total Orders
+* 👥 Total Customers
+* 📦 Inventory Availability
+* 🚚 Delivery Performance
+* ⭐ Customer Rating
+* 📢 Marketing Spend
+* 💵 Return on Ad Spend (ROAS)
 
 ---
 
@@ -95,11 +93,11 @@ The project integrates multiple business datasets:
 
 # 🚀 Business Recommendations
 
-- Improve customer retention through loyalty programs.
-- Optimize inventory levels for high-demand products.
-- Reduce delivery delays using route optimization.
-- Allocate marketing budget to high-performing channels.
-- Monitor KPIs regularly using executive dashboards.
+* Improve customer retention through loyalty programs.
+* Optimize inventory levels for high-demand products.
+* Reduce delivery delays using route optimization.
+* Allocate marketing budget to high-performing channels.
+* Monitor KPIs regularly using executive dashboards.
 
 ---
 
@@ -117,21 +115,20 @@ Blinkit-Business-Intelligence-Operations-Analytics
 ├── SQL Queries
 ├── README
 └── Executive Report.pdf
+
 ```
 
 ---
 
 # 🎯 Skills Demonstrated
 
-- Business Intelligence
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Querying
-- Power BI Dashboard Development
-- KPI Reporting
-- Data Visualization
-- Business Storytelling
-- Business Recommendations
-- Analytical Thinking
-
----
+* Business Intelligence
+* Data Cleaning
+* Exploratory Data Analysis
+* SQL Querying
+* Power BI Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Business Storytelling
+* Business Recommendations
+* Analytical Thinking
