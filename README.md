@@ -6,19 +6,6 @@
 
 **SQL • Python • Excel • Power BI • Business Intelligence • Data Visualization**
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/jeevanreddym9/Blinkit-Business-Intelligence-Operations-Analytics">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
-</a>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
-<img src="https://img.shields.io/badge/Python-EDA-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-Analytics-orange?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Excel-Data%20Processing-green?style=for-the-badge&logo=microsoftexcel" />
-
-</p>
 
 ---
 
@@ -572,10 +559,3 @@ The main objective is to demonstrate how a Data Analyst can use technical tools 
 
 ---
 
-<p align="center">
-
-### ⭐ If you find this project useful, consider giving the repository a star!
-
-**Built with SQL + Python + Excel + Power BI**
-
-</p>
